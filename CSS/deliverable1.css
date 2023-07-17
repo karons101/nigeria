@@ -5,7 +5,6 @@
 }
 
 body{
-    
     position: relative;
     width: 100%;
     min-height: 100vh;
@@ -46,7 +45,7 @@ body{
 
 .greeting{
     font-family: 'Georgia';
-    font-size: 100px;
+    font-size: 80px;
     color: #fff;
     font-weight: 800;
     text-transform: capitalize;
